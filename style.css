@@ -1,6 +1,6 @@
 body 
 {
-    background-color: lightskyblue;
+    background-color: rgb(135, 189, 250);
     font-family: 'Franklin Gothic Medium';
 }
 
@@ -26,8 +26,9 @@ header
 
 img
 {
-    padding-top: 10px;
-    padding-right: 15px;
-    padding-bottom: 6 px;
-    padding-left: 15 px;
+    padding-top: 1px;
+    padding-right: 1px;
+    padding-bottom: 1px;
+    padding-left: 1px;
+    border: 2px solid
 }
