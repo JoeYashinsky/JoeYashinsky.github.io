@@ -4,10 +4,28 @@ body
     font-family: 'Franklin Gothic Medium';
 }
 
+.vertical-menu
+{
+    width: 200px;
+}
+
+.vertical-menu a
+{
+    display: block;
+    padding: 12px;
+    text-decoration: none;
+}
+
+.vertical-menu a:hover
+{
+    background-color: #ccc;
+}
+
 h1 
 {
     color: white;
     text-align: center;
+    font-size: 45px;
 }
 
 p
