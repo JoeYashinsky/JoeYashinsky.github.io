@@ -2,6 +2,8 @@ body
 {
     background-color: rgb(135, 189, 250);
     font-family: 'Franklin Gothic Medium';
+    font-size: 14px;
+
 }
 
 .vertical-menu
@@ -49,4 +51,9 @@ img
     padding-bottom: 1px;
     padding-left: 1px;
     border: 2px solid
+}
+
+#about- body
+{
+    font-size:
 }
